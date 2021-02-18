@@ -1,0 +1,23 @@
+.frm{
+    margin-left: 45px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+input{
+    margin-left: 20px;
+}
+button{
+    margin-top: 20px;
+    color: white;
+    background-color: #ff4500;
+    padding: 8px 20px 8px 20px;
+    border-radius: 20px;
+    border: none;
+}
+button:hover{
+    background: none;
+    border: 1px solid #ff4500;
+    color: #ff4500;
+}
